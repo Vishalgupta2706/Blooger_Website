@@ -57,7 +57,7 @@ h2{
 
 h3{
     font-family: var(--Abel);
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 
 button.btn{
@@ -114,7 +114,7 @@ p{
 .nav .toggle-collapse .toggle-icons{
     display: flex;
     justify-content: flex-end;
-    padding: 1.7rem 0;
+    padding: 1.5rem 0;
 }
 
 .nav .toggle-collapse .toggle-icons i{
